@@ -6,8 +6,8 @@ An interactive **Hospital Emergency Room Dashboard** built in **Microsoft Excel*
 
 # 📊 Dashboard Preview
 
-![Hospital Dashboard](<img width="1505" height="662" alt="Screenshot 2026-08-01 023638" src="https://github.com/user-attachments/assets/99eebaf2-6a1d-4ebb-a9be-3c0c3dac0df1" />
-)
+<img width="1505" height="662" alt="Screenshot 2026-08-01 023638" src="https://github.com/user-attachments/assets/05018428-8853-4d8a-93d9-efa13b180534" />
+
 
 ---
 
@@ -125,14 +125,7 @@ Hospital-Emergency-Room-Dashboard/
 └── Dataset.xlsx
 ```
 
----
 
-# 📷 Dashboard Screenshot
-
-![Dashboard](<img width="1505" height="662" alt="Screenshot 2026-08-01 023638" src="https://github.com/user-attachments/assets/5d4c25f7-1ae8-4554-ad5c-98c1dc1e16f8" />
-)
-
----
 
 # 📬 Contact
 
