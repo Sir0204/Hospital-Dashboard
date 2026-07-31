@@ -131,7 +131,7 @@ Hospital-Emergency-Room-Dashboard/
 
 **Name:** Himanshu Chaurasiya
 
-**GitHub:** https://github.com/Sir_0204
+**GitHub:** https://github.com/Sir0204
 
 
 ---
